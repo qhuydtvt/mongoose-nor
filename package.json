@@ -1,0 +1,13 @@
+{
+  "name": "mongoose-nor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.10.9"
+  },
+  "engines" : { "node" : "14.11.0" }
+}
